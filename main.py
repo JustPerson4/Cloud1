@@ -1,0 +1,2 @@
+def mian ():
+    print('main')
